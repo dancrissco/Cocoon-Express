@@ -1,2 +1,2 @@
 # Cocoon-Express
-Seld Balancing 2 Wheeler.
+Self Balancing 2 Wheeler.
